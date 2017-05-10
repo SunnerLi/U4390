@@ -6,7 +6,15 @@ The strategy are alternating least square algorithm and the stochastic gradient 
 Illustration
 ---
 Alternating least square algorithm:
+```
+python mf_tango.py
+```
+<br/>
 ![](img/alter.jpg)
 
 Stochastic gradient decent algorithm
-![](img/alter.jpg)
+```
+python mf_sgd.py
+```
+<br/>
+![](img/sgd.jpg)
