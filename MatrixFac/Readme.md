@@ -9,12 +9,16 @@ Alternating least square algorithm:
 ```
 python mf_tango.py
 ```
+
 <br/>
+
 ![](img/alter.jpg)
 
 Stochastic gradient decent algorithm
 ```
 python mf_sgd.py
 ```
+
 <br/>
+
 ![](img/sgd.jpg)
